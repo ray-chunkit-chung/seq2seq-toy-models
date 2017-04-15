@@ -1,4 +1,4 @@
-# Seq2seq-toy-models
+# Sequences Toy Models
 
 This repository plays around with the magic of sequences prediction using rnn and seq2seq toy models.
 
