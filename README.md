@@ -4,7 +4,7 @@ This repository plays around with the magic of sequence prediction using rnn and
 
 # Table of files
 
-| Filename | tf version | Information |
+| Filename | tf version | Description |
 |----------|------------|-------------|
 | rnn_addition.ipynb | 0.11.0 | an rnn program that learns to add two numbers |
 | seq2seq_number_seq01.ipynb | 0.11.0 | seq2seq translation between two meaningful number sequences |
